@@ -13,6 +13,12 @@ Add the following command to your CI configuration file:
 fluentci run --wasm scaleway setup
 ```
 
+## Environment Variables
+
+| Name        | Description                             | Default  |
+| ----------- | --------------------------------------- | -------- |
+| SCW_VERSION | The version of scaleway cli to install. | `2.32.1` |
+
 ## Functions
 
 | Name   | Description                                 |
