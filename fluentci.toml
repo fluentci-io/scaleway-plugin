@@ -1,0 +1,12 @@
+[package]
+name = "scaleway"
+version = "0.1.0"
+description = "CI/CD Plugin for Scaleway CLI"
+license = "MIT"
+keywords = [
+  "scaleway",
+  "deploy"
+]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>"
+]
